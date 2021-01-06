@@ -21,3 +21,13 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 
 ## 不足
 还未实现循环播放，顺序播放功能
+
+## 运行方法
+
+1.clone 项目到本地
+
+2.电脑安装了node,npm
+
+3.npm install 
+
+4.npm run dev 就可以在本地访问了
