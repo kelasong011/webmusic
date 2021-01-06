@@ -16,6 +16,8 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 [Element-ui](https://element.eleme.cn/#/zh-CN/component/quickstart)(轮播，分页，tab切换)
 
 
-## 分支说明
+## 功能实现
+发现音乐 推荐音乐 最新音乐 最新mv 搜索音乐 
 
-1. layout : 只完成了布局
+## 不足
+还未实现循环播放，顺序播放功能
