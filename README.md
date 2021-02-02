@@ -30,4 +30,4 @@ https://binaryify.github.io/NeteaseCloudMusicApi
 
 3.npm install 
 
-4.npm run dev 就可以在本地访问了
+4.启动方式 npm run serve 
